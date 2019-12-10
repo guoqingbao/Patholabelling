@@ -24,3 +24,12 @@ The labelling website provided here is part of a framework solution for patholog
 You may repeat 1) - 6) for many times until you find a optimal model you think that can be used in clinical environments.
 
 # How to use?
+1) Install Python 3.6+ (https://www.python.org/)
+2) Install django through pip (https://pypi.org/project/Django/)
+3) Install mysql 5.6+ and mysqlclient (https://docs.djangoproject.com/en/2.2/ref/databases/#mysql-notes)
+4) You may setup your mysql server and configure the host and password of the mysql database in WebLabelling/settings.py; you may also use the default database name "WebLabelling" and user as "root";
+5) Perform database migration (set up your database with different tables) by running command "python manage.py migrate";
+6) After migration succeed, you can run the website with command "python manage.py run server xx.xx.xx.xx:port" (replace xx.xx.xx.xx with your server IP and port as your prefered server port)
+7) Access your labelling website through xx.xx.xx.xx:port. 
+8) There is no records in your database by default, you can access xx.xx.xx.xx:port/admin to add records, similar as below:
+
