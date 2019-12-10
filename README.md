@@ -39,7 +39,7 @@ You may repeat 1) - 6) for many times until you find a optimal model you think t
 1) We provided a sample case (case 11 with H&E and IHC images) under labelling/static/labelling/
 2) The images need to compressed as jpg format for marking.
 3) Recommend image size is: under 200 MB
-  ### 4) Must use Microsoft Edge for labelling, you may experiment stuck if you using other web browsers.
+#### 4) Must use Microsoft Edge for labelling, you may experiment stuck if you using other web browsers.
 5) Make sure you have enough memory for labelling (8GB +)
 6) Process your labelling using PathoFusion: https://github.com/guoqingbao/Pathofusion
 7) Enable local cache by first check "LocalServer" in the admin portal (see below). To use local cache, you need to install XAMPP (https://www.apachefriends.org/index.html); start the apache server; navigate to "htdocs" folder by clicking "Explorer" in XAMPP control panel; create a "labelling" folder; copy images and corresponding thumb images into that folder. 
