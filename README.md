@@ -33,6 +33,17 @@ You may repeat 1) - 6) for many times until you find a optimal model you think t
 7) Access your labelling website through xx.xx.xx.xx:port. 
 8) There is no records in your database by default, you can access xx.xx.xx.xx:port/admin to add records.
 
+
+# Need to know
+
+1) We provided a sample case (case 11 with H&E and IHC images) under labelling/static/labelling/
+2) The images need to compressed as jpg format for marking.
+3) Recommend image size is: under 200 MB
+  ### 4) Must use Microsoft Edge for labelling, you may experiment stuck if you using other web browsers.
+5) Make sure you have enough memory for labelling (8GB +)
+6) Process your labelling using PathoFusion: https://github.com/guoqingbao/Pathofusion
+7) Enable local cache by first check "LocalServer" in the admin portal (see below). To use local cache, you need to install XAMPP (https://www.apachefriends.org/index.html); start the apache server; navigate to "htdocs" folder by clicking "Explorer" in XAMPP control panel; create a "labelling" folder; copy images and corresponding thumb images into that folder. 
+
 # How to add records?
 
 1) Goto admin portal of your website and add a user with ImageGroup permission (permitted to marking)
@@ -52,13 +63,4 @@ Please make sure the file (you added in the list) is under your website static f
 Please make sure the user have ImageGroup permission.
 
 4) Go to you website main page and enjoy your marking
-
-# Others
-
-1) We provided a sample case (case 11 with H&E and IHC images) under labelling/static/labelling/
-2) The images may need to compressed as jpg format for marking.
-3) Recommend image size is: under 200 MB
-    ### 4) Must use Microsoft Edge for labelling, you may experiment stuck if you using other web browsers.
-5) Make sure you have enough memory for labelling (8GB +)
-6) Process your labelling using PathoFusion: https://github.com/guoqingbao/Pathofusion
 
