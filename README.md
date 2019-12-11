@@ -33,12 +33,13 @@ You may repeat 1) - 6) for many times until you find a optimal model you think t
 7) Access your labelling website through xx.xx.xx.xx:port. 
 8) There is no records in your database by default, you can access xx.xx.xx.xx:port/admin to add records.
 
-<video style="width:100%" controls>
-  <source src="https://cloudstor.aarnet.edu.au/plus/s/X8N1Pns2iVTYY2K/download" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-            
+### Plese see the following video:
 
+Image Labelling: https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA
+
+Processed by PathoFusion: https://cloudstor.aarnet.edu.au/plus/s/X8N1Pns2iVTYY2K
+
+           
 # Need to know
 
 1) We provided a sample case (case 11 with H&E and IHC images) under labelling/static/labelling/
