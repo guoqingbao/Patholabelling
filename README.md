@@ -1,11 +1,7 @@
 # Patholabelling
 An open-source website for marking histopathology images. It is a part of our research project: https://github.com/guoqingbao/Pathofusion 
 
-This repository is made public for our research paper:
-
-![](/others/paper-title.png) 
-
-## Please cite our work if you found it is useful for your research or clinical practice.
+This repository is made public for a research paper that currently under review:
 
 # Who may use?
 1) You are a researcher who is dealing with pathology images and wants to build your own deep learning model to analysis those images or struggling to find an effective method for pathology image analysis.
