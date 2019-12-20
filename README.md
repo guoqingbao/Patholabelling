@@ -37,9 +37,7 @@ You may repeat 1) - 6) for many times until you find a optimal model you think t
 
 Image Labelling: https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA
 
-Processed by PathoFusion: https://cloudstor.aarnet.edu.au/plus/s/X8N1Pns2iVTYY2K
 
-           
 # Need to know
 
 1) We provided a sample case (case 11 with H&E and IHC images) under labelling/static/labelling/
