@@ -3,6 +3,10 @@ An open-source website for marking histopathology images. It is a part of our re
 
 This repository is made public for a research paper that currently under review:
 
+# Video demonstration:
+
+Image Labelling: https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA
+
 # Who may use?
 1) You are a researcher who is dealing with pathology images and wants to build your own deep learning model to analysis those images or struggling to find an effective method for pathology image analysis.
 2) You are a doctor or clinical staff who specialized in pathology and want to pass your knowledge to machines.
@@ -28,10 +32,6 @@ You may repeat 1) - 6) for many times until you find a optimal model you think t
 6) After migration succeed, you can run the website with command "python manage.py run server xx.xx.xx.xx:port" (replace xx.xx.xx.xx with your server IP and port as your prefered server port)
 7) Access your labelling website through xx.xx.xx.xx:port. 
 8) There is no records in your database by default, you can access xx.xx.xx.xx:port/admin to add records.
-
-### Plese see the following video:
-
-Image Labelling: https://cloudstor.aarnet.edu.au/plus/s/JSASsezqvrB9sgA
 
 
 # Need to know
