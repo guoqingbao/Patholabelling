@@ -1,6 +1,8 @@
 # Patholabelling
 An open-source website for marking histopathology images. It is a part of our PathoFusion framework, a researech project for analysis in histopathology: https://github.com/guoqingbao/Pathofusion 
 
+![](/others/login.png)
+
 # Citation
 Bao G, Wang X, Xu R, Loh C, Adeyinka OD, Pieris DA, Cherepanoff S, Gracie G, Lee M, McDonald KL, Nowak AK, Banati R, Buckland ME, Graeber MB. PathoFusion: An Open-Source AI Framework for Recognition of Pathomorphological Features and Mapping of Immunohistochemical Data. Cancers. 2021; 13(4):617. https://doi.org/10.3390/cancers13040617
 
