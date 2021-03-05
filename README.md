@@ -1,6 +1,11 @@
 # Patholabelling
 An open-source website for marking histopathology images. It is a part of our PathoFusion framework, a researech project for analysis in histopathology: https://github.com/guoqingbao/Pathofusion 
 
+#### Upgrade for the labelling website: support overlay of IHC/fusion heatmaps and labelling for extremely large pathology images (over 60,000x60,000; cutting), please refer the new video demo for the website: https://cloudstor.aarnet.edu.au/plus/s/EdC2kydCJsQuhm6
+
+#### Important for using the labelling website: Edge legacy is required (other web browers, including the new Edge have problem when dealing with large images)
+To use Edge legacy: 1) rename the new Edge folder to any other names you want; 2) download "EdgeLaunch.exe" to launch legacy Edge (or Win+run: shell:Appsfolder\Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge)
+
 ![](/others/login.png)
 
 # Citation
