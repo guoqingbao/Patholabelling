@@ -7,6 +7,9 @@ An open-source website for marking histopathology images. It is a part of our Pa
 To use Edge legacy: 1) rename the new Edge folder to any other names you want; 2) download "EdgeLaunch.exe" to launch legacy Edge (or Win+run: shell:Appsfolder\Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge)
 
 ![](/others/login.png)
+![](/others/markings.jpg)
+![](/others/overlays.jpg)
+
 
 # Citation
 Bao G, Wang X, Xu R, Loh C, Adeyinka OD, Pieris DA, Cherepanoff S, Gracie G, Lee M, McDonald KL, Nowak AK, Banati R, Buckland ME, Graeber MB. PathoFusion: An Open-Source AI Framework for Recognition of Pathomorphological Features and Mapping of Immunohistochemical Data. Cancers. 2021; 13(4):617. https://doi.org/10.3390/cancers13040617
